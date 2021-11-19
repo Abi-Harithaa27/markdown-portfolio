@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+e _includes/04-lists.md
+a list of my favourite things
+-dogs
+-food
+-cakes
