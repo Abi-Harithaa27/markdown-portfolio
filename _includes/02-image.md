@@ -1,3 +1,3 @@
 This image was uploaded from my pc
-https://www.google.com/search?q=images+of+huskies+with+blue+eyes&tbm=isch&ved=2ahUKEwjGgoymp6X0AhWTeCsKHRL_DhIQ2-cCegQIABAA&oq=images+of+huskies&gs_lcp=CgNpbWcQARgDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjoHCCMQ7wMQJzoECAAQQzoICAAQgAQQsQM6CAgAELEDEIMBOgQIABADUIAIWJMsYIlKaAJwAHgAgAH_AogByhCSAQgwLjExLjAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=mQ6YYYbSE5PxrQGS_ruQAQ&rlz=1C1CHBD_enIN925IN925#imgrc=vzhCSp9_Y00AQM
-This pic is husky with blue eyes
+_includes/02-image.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
